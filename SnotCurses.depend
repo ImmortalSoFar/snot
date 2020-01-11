@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1578608395 source:/home/mike/Projects/SnotCurses/main.c
+	<stdio.h>
+	<stdlib.h>
+	"snMenu.h"
+
+1578324678 /home/mike/Projects/SnotCurses/include/snMenu.h
+	<curses.h>
+	<menu.h>
+
+1578316602 source:/home/mike/Projects/SnotCurses/src/snMenu.cpp
+	"snMenu.h"
+
+1578605118 /home/mike/Projects/SnotCurses/snMenu.h
+	<curses.h>
+	<menu.h>
+
+1578325152 source:/home/mike/Projects/SnotCurses/snMenu.cpp
+	"snMenu.h"
+	<stdlib.h>
+
+1578688198 source:/home/mike/Projects/SnotCurses/snMenu.c
+	"snMenu.h"
+	<stdlib.h>
+	<string.h>
+
